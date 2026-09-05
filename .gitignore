@@ -1,0 +1,14 @@
+# Compiled Java files
+*.class
+
+# macOS
+.DS_Store
+
+# Competitive programming helper files
+.cph/
+*.save
+
+# Editor files
+*.swp
+.idea/
+.vscode/
